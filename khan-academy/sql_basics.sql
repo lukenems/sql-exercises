@@ -11,5 +11,3 @@ INSERT INTO Crystal_Shop VALUES (3, "Onyx", 5.00, "Used in Greek and Roman Cultu
 INSERT INTO Crystal_Shop VALUES (4, "Lapis Lazuli", 8.00, "In ancient times Lapis aws among the most highly prized tribute paid in Egypt and is obtained from the oldest mines in the world; around 4,000 B.C.. It aids in intellectual analysis, stimulates the desire for knowledge, aids in the process of learning and is excellent for enhancing memory.", 1)
 
 INSERT INTO Crystal_Shop VALUES (5, "Turquoise", 7.00, "Turquoise beads dating back to 5,000 B.C. have been found in Iraq, and the Egytians were mining the stones in the Sinai in 3,200 B.C., while for a thousand years or more Native Americans used it to guard burial sites. As a crystal for travel, Turquoise protexts you and your possesions against theft, loss or attack, and helps prevents accidents. It helps overcome writer's block ,and is a stone of clear communication when giving information and is recommended for computer operators for mental relaxation and to release anxiety.")
-
-INSERT INTO Crystal_Shop VALUES (6, "Yerba Mate", 9.99 "/.lb", ""  )
